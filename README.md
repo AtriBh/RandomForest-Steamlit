@@ -5,7 +5,7 @@ This repository contains a web application built using **Streamlit** to classify
 
 ## Demo
 
-![App Screenshot](Screenshot 2024-11-05 222942.png)
+![App Screenshot](screenshot.png)
 
 Visit the live demo of this app (if deployed online) or follow the instructions below to run it locally.
 
