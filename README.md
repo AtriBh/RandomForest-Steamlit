@@ -26,7 +26,7 @@ The Iris species classification is a well-known example for beginners in machine
 
 - Interactive web interface to enter measurements.
 - Model predicts the Iris species based on the inputs.
-- Displays predicted class with the probability score.
+- Displays predicted class.
 
 ## Installation
 
@@ -36,17 +36,12 @@ The Iris species classification is a well-known example for beginners in machine
 - Packages: `streamlit`, `scikit-learn`, and `pandas`.
 
 ### Steps
-
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com//iris-classifier.git
-   cd iris-classifier
+   git clone https://github.com/AtriBh/RandomForest-Steamlit.git
+   cd steamlit-project
    ```
 
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
